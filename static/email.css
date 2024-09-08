@@ -100,7 +100,7 @@ button:hover {
     margin-top: 20px; 
     border-left: 5px solid #3498db; 
     padding-left: 15px; 
-    max-height: 400px; /* Set a maximum height */
+    max-height: none; /* Remove the maximum height restriction */
     overflow-y: auto; /* Enable vertical scroll */
     height: auto; /* Adjust height to fit content */
 }
